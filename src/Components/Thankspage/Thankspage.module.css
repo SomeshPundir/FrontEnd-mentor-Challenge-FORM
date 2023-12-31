@@ -1,0 +1,18 @@
+.ThanksmainContainer{
+    display: flex;
+    border-radius: 8px;
+width: 300px;
+        padding : 0px 45px 0px 45px;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+.Thanksimg{
+    margin-top: 5px;
+  height: 50px;
+  width: 50px;  
+}
+.thanksButton{
+    margin: 10px;
+}
